@@ -1,8 +1,10 @@
 .customborder {
-    border: 0;
+    border: 2px solid black;
 }
 
 .edisonpic1 {
     width: 80%;
     height: auto;
 }
+
+
