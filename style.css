@@ -37,3 +37,8 @@
     animation: ease-in-out;
     opacity: 4;
 }
+
+.customfooter {
+   background-color: grey;
+   color: white;
+}
