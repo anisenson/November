@@ -28,3 +28,12 @@
     border: 2px solid black;
     border-radius: 2%;
 }     
+
+
+
+.card:target {
+    box-shadow: 5px 5px 5px black;
+    border-color: black;
+    animation: ease-in-out;
+    opacity: 4;
+}
